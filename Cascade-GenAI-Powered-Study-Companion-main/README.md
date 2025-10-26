@@ -48,15 +48,3 @@ Run the setup file to install CASCADE on your computer.
 ## Make sure to run Cascade as admin.
 ▫️Also make sure that your system's display setting's scale should be set to 125% to render pages properly.
 
-
-## License
-This project is licensed under a custom license - see the [LICENSE](https://github.com/Kaos599/Cascade-GenAI-Powered-Study-Companion/blob/main/LICENSE.md) file for details.
-
-
-## Contact
-Made with Love By Harsh Dayal [Github](https://github.com/Kaos599) | [Linkedin](https://www.linkedin.com/in/harshdayal/) and Saanvi Sharma [Github](https://github.com/confusedjpeg) | [Linkedin](https://www.linkedin.com/in/saanvi-sharma-b12a27251/)!
-
-For any queries or support, please open an issue on this repository or contact us at dayal700007@gmail.com or saanvisharma004@gmail.com.
-
-## Thank You
-We hope you enjoy using CASCADE as much as we enjoyed developing it.  Thank you for installing CASCADE! We are excited to be part of your academic journey and help you achieve your goals.
